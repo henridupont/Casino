@@ -1,3 +1,5 @@
+from Jeu import Jeu
+
 class Roulette(Jeu):
     """
         « La roulette est un cercle vicieux à l'intérieur duquel sont
