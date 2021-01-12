@@ -1,4 +1,7 @@
+from math import ceil
+
 from Jeu import Jeu
+from random import randrange
 
 class Roulette(Jeu):
     """
