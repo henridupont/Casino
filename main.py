@@ -2,6 +2,11 @@
 
 # Press Maj+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+from Casino import Casino
+from Joueur import Joueur
+from Roulette import Roulette
+from MachineASous import MachineASous
+
 
 def main():
     casino = Casino(100000)
